@@ -1,0 +1,25 @@
+{
+  "wars": [
+    {
+      "opponent": "Hell",
+      "started": "2025-06-21",
+      "status": "Won",
+      "score": "5–2",
+      "notes": "Great defense on rounds 3–5."
+    },
+    {
+      "opponent": "KYW",
+      "started": "2025-07-03",
+      "status": "Ongoing",
+      "score": "2–1",
+      "notes": "Next match Friday."
+    },
+    {
+      "opponent": "Egram",
+      "started": "2025-08-18",
+      "status": "Lost",
+      "score": "3–4",
+      "notes": "Close series; review comms."
+    }
+  ]
+}

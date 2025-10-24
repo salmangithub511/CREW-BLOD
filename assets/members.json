@@ -1,0 +1,19 @@
+{
+  "members": [
+    {
+      "handle": "Salman-Lead",
+      "rank": "Leader",
+      "bio": "Founder and lead strategist of Crew BLOD."
+    },
+    {
+      "handle": "Abdel-Mohsen-KSA",
+      "rank": "Lieutenant",
+      "bio": "Sharpshooter and ops coordinator."
+    },
+    {
+      "handle": "AL3MDH_EMAD_SA",
+      "rank": "Officer",
+      "bio": "Frontline assault and training drills."
+    }
+  ]
+}

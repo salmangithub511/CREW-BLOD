@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "Train & Scrim Night",
+      "date": "2025-10-26 21:00 GMT+3",
+      "game": "RDR2 Online",
+      "mode": "TDM",
+      "description": "Warm-up drills, aim practice, new tactics."
+    },
+    {
+      "title": "Clan War vs KYW",
+      "date": "2025-10-28 22:00 GMT+3",
+      "game": "RDR2 Online",
+      "mode": "Objective",
+      "description": "Best of 7. Stream on Twitch."
+    }
+  ]
+}
